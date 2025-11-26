@@ -93,7 +93,28 @@ Key questions explored:
 ---
 
 ## 📈 Visualizations & Dashboards
+## 📊 Sales Performance Dashboard (Jan–Dec 2023)
 
+![Sales Performance Dashboard](https://github.com/OYINKANSOLAOJUGBELE/Honey-Enterprise-Sales-data/blob/main/Sales%20Data%20Dashboard.png?raw=true)
+
+---
+
+## 📈 Key Insights
+
+### ⭐ **High-Level Metrics**
+- Total Revenue (2023)  
+- Total Profit  
+- Highest Selling Region  
+- Most Popular Product Category  
+- Top Performing Sales Rep  
+
+### ⭐ **Patterns Observed**
+- Strong seasonality across months  
+- North region leads in total sales  
+- Clothing and Furniture dominate unit sales  
+- Credit Card is the most common payment method  
+- Retail outperforms Online sales channel
+---
 
 Recommended visuals:
 
@@ -105,8 +126,6 @@ Recommended visuals:
 * 📦 Product Category Contribution
 * 💰 Profit Distribution
 
-Dashboards available in `/visuals/` (if added).
-
 ---
 
 ## 🛠 Tools & Technologies Used
@@ -114,23 +133,6 @@ Dashboards available in `/visuals/` (if added).
 * **Microsoft Excel** — cleaning, pivot tables, charts
 
 ---
-
-## 📂 Project Structure
-
-```
-📦 Honey-Enterprises-Sales-Analysis
-│
-├── data/
-│   └── Honey Enterprises sales data.xlsx
-│
-├── analysis/
-│   └── EDA.ipynb  (optional)
-│
-├── visuals/
-│   └── charts, dashboards, screenshots
-│
-└── README.md
-```
 
 ## 📬 Contact
 
